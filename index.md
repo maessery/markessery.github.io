@@ -14,8 +14,10 @@
 <img src="images/supplier_recommender.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Radio Signal Image Classification
+<!-- [Project 3 Title](http://example.com/) -->
+<img src="images/seti_project.png?raw=true"/>
 
 ---
 
