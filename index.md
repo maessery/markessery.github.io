@@ -15,7 +15,7 @@
 
 ---
 
-### Radio Signal Image Classification
+### [Radio Signal Image Classification](https://github.com/maessery/SETI-Radio-Signal-Image-Classification)
 <!-- [Project 3 Title](http://example.com/) -->
 <img src="images/seti_project.png?raw=true"/>
 
