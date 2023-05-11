@@ -2,7 +2,7 @@
 
 ---
 
-### NHL Salary Predictor
+### [NHL Salary Predictor](https://github.com/maessery/NHL-Salary-Predictor)
 
 <!-- [NHL Salary Predictor](/sample_page) -->
 <img src="images/salary_predictor_thumbnail.png?raw=true"/>
