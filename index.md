@@ -11,7 +11,7 @@
 
 ### Supplier Recommender
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
-<img src="images/supplier_recommender.png?raw=true"/>
+<img src="images/supplier_recommender_updated.png?raw=true"/>
 
 ---
 
