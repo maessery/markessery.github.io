@@ -21,6 +21,10 @@
 
 ---
 
+### Effort Matrix
+<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
+<img src="images/effort_devquad_example.png?raw=true"/>
+
 <!-- ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
