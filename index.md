@@ -21,7 +21,7 @@ During my time in the 3PL industry, I created a .exe application with python to 
 
 <br>
 ---
-<br>
+
 
 ### [Radio Signal Image Classification](https://github.com/maessery/SETI-Radio-Signal-Image-Classification)
 
