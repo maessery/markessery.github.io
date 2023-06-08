@@ -34,7 +34,7 @@ Built a deep learning model from the Tensorflow library that was trained on 5600
 ---
 
 ### Effort Matrix
-Created a performance analysis tool that measured salespersons against their peers. The graph represents effort level based on engineered KPIs on the x-axis (greater effort from left to right) and output as the y-axis variable, and allows for targeted developmental approaches based on quadrant.
+Created a performance analysis tool that measured salespersons against their peers. The graph's x-axis represents effort level based on engineered KPIs (greater effort from left to right) and output as the y-axis variable. Employees are then grouped into targeted developmental approaches according to their respective quadrant.
 
 <br>
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
