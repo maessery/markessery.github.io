@@ -3,9 +3,7 @@
 ---
 
 ### [NHL Salary Predictor](https://github.com/maessery/NHL-Salary-Predictor)
-#####  Collected NHL player statistics and contract data from 2007 to 2020, then constructed an ensemble
-regression model that predicted a player’s salary based on 72 features with 79% accuracy
-
+Player-Team contract negotiations are a tricky process; players aim to maximize compensation for their services, while GMs are looking for the most economic deal with regards to the team's salary cap constraints. Using player production data from hockeyreference.com and contract data from capfriendly.com between 2007 and 2020, I explored what position(s) and stat categories are most correlated with higher pay, and predicted what a player's AAV would be based on their production on the ice. My final model used a combination of XGBoost Regression and Extra Trees Regressors and predicted a player's salary based on 72 features with 79% accuracy.
 <!-- [NHL Salary Predictor](/sample_page) -->
 <img src="images/salary_predictor_thumbnail.png?raw=true"/>
 
