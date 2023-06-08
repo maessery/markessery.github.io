@@ -10,6 +10,7 @@ Player-Team contract negotiations are a tricky process; players aim to maximize 
 ---
 
 ### Supplier Recommender
+During my time in the 3PL industry, I created a .exe application with python to help sales reps find viable carriers for shipments. The user inputs a few basic filters, then receives back recommendations based on distance, a unique scoring system of 10 features, and a KNN algorithm.
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <img src="images/supplier_recommender_updated.png?raw=true"/>
 
