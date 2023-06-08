@@ -19,7 +19,7 @@ During my time in the 3PL industry, I created a .exe application with python to 
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <img src="images/supplier_recommender_updated.png?raw=true"/>
 
-<br>
+
 ---
 
 
