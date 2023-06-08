@@ -24,6 +24,7 @@ During my time in the 3PL industry, I created a .exe application with python to 
 
 
 ### [Radio Signal Image Classification](https://github.com/maessery/SETI-Radio-Signal-Image-Classification)
+Built a deep learning model from the Tensorflow library that was trained on 5600 spectogram images and classified them into 7 unique radio signal categories. The final model was comprised of a 15-layer CNN model and a Random Forest Classifier, and predicted with 87% accuracy. Data was based on the "SETI Data" Kaggle dataset.
 
 <br>
 <!-- [Project 3 Title](http://example.com/) -->
@@ -33,6 +34,7 @@ During my time in the 3PL industry, I created a .exe application with python to 
 ---
 
 ### Effort Matrix
+Created a performance analysis tool that measured salespersons against their peers. The graph represents effort level based on engineered KPIs on the x-axis (greater effort from left to right) and output as the y-axis variable, and allows for targeted developmental approaches based on quadrant.
 
 <br>
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
