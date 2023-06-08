@@ -3,6 +3,8 @@
 ---
 
 ### [NHL Salary Predictor](https://github.com/maessery/NHL-Salary-Predictor)
+#####  Collected NHL player statistics and contract data from 2007 to 2020, then constructed an ensemble
+regression model that predicted a player’s salary based on 72 features with 79% accuracy
 
 <!-- [NHL Salary Predictor](/sample_page) -->
 <img src="images/salary_predictor_thumbnail.png?raw=true"/>
