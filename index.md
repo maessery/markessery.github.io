@@ -4,6 +4,7 @@
 
 ### [NHL Salary Predictor](https://github.com/maessery/NHL-Salary-Predictor)
 Player-Team contract negotiations are a tricky process; players aim to maximize compensation for their services, while GMs are looking for the most economic deal with regards to the team's salary cap constraints. Using player production data from hockeyreference.com and contract data from capfriendly.com between 2007 and 2020, I explored what position(s) and stat categories are most correlated with higher pay, and predicted what a player's AAV would be based on their production on the ice. My final model used a combination of XGBoost Regression and Extra Trees Regressors and predicted a player's salary based on 72 features with 79% accuracy.
+<br>
 <!-- [NHL Salary Predictor](/sample_page) -->
 <img src="images/salary_predictor_thumbnail.png?raw=true"/>
 
@@ -11,6 +12,7 @@ Player-Team contract negotiations are a tricky process; players aim to maximize 
 
 ### Supplier Recommender
 During my time in the 3PL industry, I created a .exe application with python to help sales reps find viable carriers for shipments. The user inputs a few basic filters, then receives back recommendations based on distance, a unique scoring system of 10 features, and a KNN algorithm.
+<br>
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <img src="images/supplier_recommender_updated.png?raw=true"/>
 
